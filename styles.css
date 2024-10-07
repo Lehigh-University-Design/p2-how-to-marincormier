@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    font-weight: 900;
+    background-color: aqua;
+  }
+  
+  header {
+    margin-bottom: 20px;
+    margin-left: 100px;
+    font-family: cursive;
+  }
+  
+  nav {
+    margin-bottom: 20px;
+  }
+  
+  nav button {
+    padding: 20px 15px;
+    margin-right: 10px;
+    background-color: #17ac2b;
+    color: white;
+    border: none;
+    border-radius: 50px;
+  }
+  
+  nav button:hover {
+    background-color: #65d769;
+  }
+  
+  main {
+    border: 1px solid #ccc;
+    padding: 20px;
+    background: rgb(223, 140, 229);
+  }
+  
+  h2 {
+    margin-top: 30px;
+  }
